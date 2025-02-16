@@ -1,0 +1,2454 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://docs.manim.community/</loc>
+	<lastmod>2025-02-15T20:40:57+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/</loc>
+	<lastmod>2025-02-15T20:40:58+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/examples.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/installation.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/installation/uv.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/installation/conda.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/installation/docker.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/installation/jupyter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/tutorials_guides.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/tutorials/index.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/tutorials/quickstart.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/tutorials/output_and_config.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/tutorials/building_blocks.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/guides/index.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/guides/configuration.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/guides/deep_dive.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/guides/using_text.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/guides/add_voiceovers.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/faq/index.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/faq/general.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/faq/help.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/faq/installation.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/faq/internals.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/faq/opengl.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference_index/animations.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.animation.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.animation.Add.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.animation.Animation.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.animation.Wait.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.changing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.changing.AnimatedBoundary.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.changing.TracedPath.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.composition.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.composition.AnimationGroup.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.composition.LaggedStart.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.composition.LaggedStartMap.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.composition.Succession.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.AddTextLetterByLetter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.AddTextWordByWord.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.Create.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.DrawBorderThenFill.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.RemoveTextLetterByLetter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.ShowIncreasingSubsets.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.ShowPartial.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.ShowSubmobjectsOneByOne.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.SpiralIn.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.TypeWithCursor.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.Uncreate.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.UntypeWithCursor.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.Unwrite.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.creation.Write.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.fading.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.fading.FadeIn.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.fading.FadeOut.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.growing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.growing.GrowArrow.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.growing.GrowFromCenter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.growing.GrowFromEdge.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.growing.GrowFromPoint.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.growing.SpinInFromNothing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.indication.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.indication.ApplyWave.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.indication.Blink.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.indication.Circumscribe.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.indication.Flash.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.indication.FocusOn.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.indication.Indicate.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.indication.ShowPassingFlash.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.indication.ShowPassingFlashWithThinningStrokeWidth.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.indication.Wiggle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.movement.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.movement.ComplexHomotopy.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.movement.Homotopy.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.movement.MoveAlongPath.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.movement.PhaseFlow.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.movement.SmoothedVectorizedHomotopy.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.numbers.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.numbers.ChangeDecimalToValue.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.numbers.ChangingDecimal.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.rotation.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.rotation.Rotate.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.rotation.Rotating.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.specialized.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.specialized.Broadcast.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.speedmodifier.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.speedmodifier.ChangeSpeed.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.ApplyComplexFunction.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.ApplyFunction.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.ApplyMatrix.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.ApplyMethod.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.ApplyPointwiseFunction.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.ApplyPointwiseFunctionToCenter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.ClockwiseTransform.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.CounterclockwiseTransform.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.CyclicReplace.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.FadeToColor.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.FadeTransform.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.FadeTransformPieces.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.MoveToTarget.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.ReplacementTransform.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.Restore.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.ScaleInPlace.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.ShrinkToCenter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.Swap.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.Transform.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.TransformAnimations.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform.TransformFromCopy.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform_matching_parts.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform_matching_parts.TransformMatchingAbstractBase.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform_matching_parts.TransformMatchingShapes.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.transform_matching_parts.TransformMatchingTex.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.updaters.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.updaters.mobject_update_utils.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.updaters.update.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.updaters.update.MaintainPositionRelativeTo.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.updaters.update.UpdateFromAlphaFunc.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.animation.updaters.update.UpdateFromFunc.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference_index/cameras.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.camera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.camera.BackgroundColoredVMobjectDisplayer.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.camera.Camera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.mapping_camera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.mapping_camera.MappingCamera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.mapping_camera.OldMultiCamera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.mapping_camera.SplitScreenCamera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.moving_camera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.moving_camera.MovingCamera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.multi_camera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.multi_camera.MultiCamera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.three_d_camera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.camera.three_d_camera.ThreeDCamera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference_index/configuration.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim._config.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim._config.utils.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim._config.utils.ManimConfig.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim._config.utils.ManimFrame.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim._config.logger_utils.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim._config.logger_utils.JSONFormatter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference_index/mobjects.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.frame.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.frame.FullScreenRectangle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.frame.ScreenRectangle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.AnnotationDot.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.AnnularSector.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.Annulus.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.Arc.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.ArcBetweenPoints.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.ArcPolygon.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.ArcPolygonFromArcs.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.Circle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.CubicBezier.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.CurvedArrow.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.CurvedDoubleArrow.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.Dot.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.Ellipse.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.LabeledDot.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.Sector.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.arc.TipableVMobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.boolean_ops.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.boolean_ops.Difference.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.boolean_ops.Exclusion.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.boolean_ops.Intersection.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.boolean_ops.Union.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.labeled.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.labeled.Label.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.labeled.LabeledArrow.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.labeled.LabeledLine.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.labeled.LabeledPolygram.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.line.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.line.Angle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.line.Arrow.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.line.DashedLine.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.line.DoubleArrow.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.line.Elbow.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.line.Line.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.line.RightAngle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.line.TangentLine.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.line.Vector.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.ConvexHull.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.Cutout.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.Polygon.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.Polygram.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.Rectangle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.RegularPolygon.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.RegularPolygram.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.RoundedRectangle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.Square.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.Star.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.polygram.Triangle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.shape_matchers.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.shape_matchers.BackgroundRectangle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.shape_matchers.Cross.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.shape_matchers.SurroundingRectangle.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.shape_matchers.Underline.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.tips.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.tips.ArrowCircleFilledTip.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.tips.ArrowCircleTip.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.tips.ArrowSquareFilledTip.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.tips.ArrowSquareTip.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.tips.ArrowTip.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.tips.ArrowTriangleFilledTip.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.tips.ArrowTriangleTip.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.geometry.tips.StealthTip.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graph.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graph.DiGraph.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graph.GenericGraph.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graph.Graph.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graph.LayoutFunction.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.coordinate_systems.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.coordinate_systems.Axes.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.coordinate_systems.ComplexPlane.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.coordinate_systems.CoordinateSystem.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.coordinate_systems.NumberPlane.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.coordinate_systems.PolarPlane.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.coordinate_systems.ThreeDAxes.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.functions.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.functions.FunctionGraph.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.functions.ImplicitFunction.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.functions.ParametricFunction.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.number_line.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.number_line.NumberLine.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.number_line.UnitInterval.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.probability.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.probability.BarChart.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.probability.SampleSpace.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.scale.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.scale.LinearBase.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.graphing.scale.LogBase.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.logo.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.logo.ManimBanner.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.matrix.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.matrix.DecimalMatrix.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.matrix.IntegerMatrix.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.matrix.Matrix.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.matrix.MobjectMatrix.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.mobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.mobject.Group.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.mobject.Mobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.svg.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.svg.brace.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.svg.brace.ArcBrace.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.svg.brace.Brace.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.svg.brace.BraceBetweenPoints.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.svg.brace.BraceLabel.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.svg.brace.BraceText.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.svg.svg_mobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.svg.svg_mobject.SVGMobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.svg.svg_mobject.VMobjectFromSVGPath.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.table.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.table.DecimalTable.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.table.IntegerTable.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.table.MathTable.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.table.MobjectTable.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.table.Table.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.code_mobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.code_mobject.Code.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.numbers.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.numbers.DecimalNumber.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.numbers.Integer.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.numbers.Variable.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.tex_mobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.tex_mobject.BulletedList.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.tex_mobject.MathTex.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.tex_mobject.SingleStringMathTex.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.tex_mobject.Tex.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.tex_mobject.Title.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.text_mobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.text_mobject.MarkupText.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.text_mobject.Paragraph.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.text.text_mobject.Text.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.polyhedra.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.polyhedra.ConvexHull3D.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.polyhedra.Dodecahedron.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.polyhedra.Icosahedron.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.polyhedra.Octahedron.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.polyhedra.Polyhedron.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.polyhedra.Tetrahedron.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_d_utils.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.Arrow3D.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.Cone.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.Cube.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.Cylinder.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.Dot3D.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.Line3D.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.Prism.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.Sphere.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.Surface.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.ThreeDVMobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.three_d.three_dimensions.Torus.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.image_mobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.image_mobject.AbstractImageMobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.image_mobject.ImageMobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.image_mobject.ImageMobjectFromCamera.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.point_cloud_mobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.point_cloud_mobject.Mobject1D.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.point_cloud_mobject.Mobject2D.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.point_cloud_mobject.PGroup.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.point_cloud_mobject.PMobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.point_cloud_mobject.Point.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.point_cloud_mobject.PointCloudDot.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.vectorized_mobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.vectorized_mobject.CurvesAsSubmobjects.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.vectorized_mobject.DashedVMobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.vectorized_mobject.VDict.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.vectorized_mobject.VGroup.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.vectorized_mobject.VMobject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.types.vectorized_mobject.VectorizedPoint.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.utils.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.value_tracker.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.value_tracker.ComplexValueTracker.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.value_tracker.ValueTracker.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.vector_field.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.vector_field.ArrowVectorField.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.vector_field.StreamLines.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.mobject.vector_field.VectorField.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference_index/scenes.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.moving_camera_scene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.moving_camera_scene.MovingCameraScene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.section.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.section.DefaultSectionType.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.section.Section.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.scene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.scene.RerunSceneHandler.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.scene.Scene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.scene_file_writer.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.scene_file_writer.SceneFileWriter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.three_d_scene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.three_d_scene.SpecialThreeDScene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.three_d_scene.ThreeDScene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.vector_space_scene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.vector_space_scene.LinearTransformationScene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.vector_space_scene.VectorScene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.zoomed_scene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.scene.zoomed_scene.ZoomedScene.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference_index/utilities_misc.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.bezier.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.cli.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.cli.cfg.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.cli.checkhealth.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.cli.init.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.cli.plugins.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.cli.render.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.core.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.core.HSV.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.core.ManimColor.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.core.RGBA.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.manim_colors.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.AS2700.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.BS381.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.DVIPSNAMES.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.SVGNAMES.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.XKCD.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.color.X11.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.commands.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.commands.VideoMetadata.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.config_ops.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.config_ops.DictAsObject.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.constants.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.constants.CapStyleType.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.constants.LineJointType.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.constants.QualityDict.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.constants.RendererType.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.debug.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.deprecation.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.docbuild.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.docbuild.autoaliasattr_directive.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.docbuild.autoaliasattr_directive.AliasAttrDocumenter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.docbuild.autocolor_directive.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.docbuild.autocolor_directive.ManimColorModuleDocumenter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.docbuild.manim_directive.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.docbuild.manim_directive.ManimDirective.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.docbuild.manim_directive.SetupMetadata.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.docbuild.manim_directive.SkipManimNode.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.docbuild.module_parsing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.hashing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.images.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.ipython_magic.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.ipython_magic.ManimMagic.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.iterables.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.paths.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.rate_functions.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.rate_functions.RateFunction.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.simple_functions.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.simple_functions.Comparable.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.sounds.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.space_ops.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.testing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.testing._frames_testers.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.testing._show_diff.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.testing._test_class_makers.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.testing._test_class_makers.DummySceneFileWriter.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.tex.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.tex.TexTemplate.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.tex_file_writing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.tex_templates.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.tex_templates.TexFontTemplates.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.utils.tex_templates.TexTemplateLibrary.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/reference/manim.typing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/plugins.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.19.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.18.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.17.3-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.17.2-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.17.1-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.17.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.16.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.15.2-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.15.1-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.15.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.14.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.13.1-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.13.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.12.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.11.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.10.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.9.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.8.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.7.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.6.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.5.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.4.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.3.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.2.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.1.1-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/changelog/0.1.0-changelog.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/development.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/docs.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/docs/admonitions.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/docs/docstrings.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/docs/examples.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/docs/references.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/docs/typings.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/docs/types.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/testing.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/performance.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/contributing/internationalization.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/conduct.html</loc>
+	<lastmod>2025-02-15T20:41:00+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/index.html</loc>
+	<lastmod>2025-02-15T20:41:02+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/animation.html</loc>
+	<lastmod>2025-02-15T20:41:06+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/changing.html</loc>
+	<lastmod>2025-02-15T20:41:07+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/composition.html</loc>
+	<lastmod>2025-02-15T20:41:07+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/creation.html</loc>
+	<lastmod>2025-02-15T20:41:08+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/fading.html</loc>
+	<lastmod>2025-02-15T20:41:09+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/growing.html</loc>
+	<lastmod>2025-02-15T20:41:10+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/indication.html</loc>
+	<lastmod>2025-02-15T20:41:10+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/movement.html</loc>
+	<lastmod>2025-02-15T20:41:11+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/numbers.html</loc>
+	<lastmod>2025-02-15T20:41:12+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/rotation.html</loc>
+	<lastmod>2025-02-15T20:41:12+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/specialized.html</loc>
+	<lastmod>2025-02-15T20:41:12+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/speedmodifier.html</loc>
+	<lastmod>2025-02-15T20:41:13+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/transform.html</loc>
+	<lastmod>2025-02-15T20:41:13+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/transform_matching_parts.html</loc>
+	<lastmod>2025-02-15T20:41:15+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/updaters/mobject_update_utils.html</loc>
+	<lastmod>2025-02-15T20:41:15+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/animation/updaters/update.html</loc>
+	<lastmod>2025-02-15T20:41:16+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/camera/camera.html</loc>
+	<lastmod>2025-02-15T20:41:16+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/camera/mapping_camera.html</loc>
+	<lastmod>2025-02-15T20:41:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/camera/multi_camera.html</loc>
+	<lastmod>2025-02-15T20:41:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/camera/moving_camera.html</loc>
+	<lastmod>2025-02-15T20:41:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/camera/three_d_camera.html</loc>
+	<lastmod>2025-02-15T20:41:17+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/_config.html</loc>
+	<lastmod>2025-02-15T20:41:18+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/_config/utils.html</loc>
+	<lastmod>2025-02-15T20:41:18+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/_config/logger_utils.html</loc>
+	<lastmod>2025-02-15T20:41:18+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/frame.html</loc>
+	<lastmod>2025-02-15T20:41:18+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/geometry/arc.html</loc>
+	<lastmod>2025-02-15T20:41:19+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/geometry/boolean_ops.html</loc>
+	<lastmod>2025-02-15T20:41:21+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/geometry/labeled.html</loc>
+	<lastmod>2025-02-15T20:41:21+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/geometry/line.html</loc>
+	<lastmod>2025-02-15T20:41:22+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/geometry/polygram.html</loc>
+	<lastmod>2025-02-15T20:41:23+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/geometry/shape_matchers.html</loc>
+	<lastmod>2025-02-15T20:41:24+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/geometry/tips.html</loc>
+	<lastmod>2025-02-15T20:41:24+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/graph.html</loc>
+	<lastmod>2025-02-15T20:41:25+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/graphing/coordinate_systems.html</loc>
+	<lastmod>2025-02-15T20:41:26+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/graphing/functions.html</loc>
+	<lastmod>2025-02-15T20:41:27+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/graphing/number_line.html</loc>
+	<lastmod>2025-02-15T20:41:27+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/graphing/probability.html</loc>
+	<lastmod>2025-02-15T20:41:27+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://docs.manim.community/en/stable/_modules/manim/mobject/graphing/scale.html</loc>
+	<lastmod>2025-02-15T20:41:28+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+</urlset>
