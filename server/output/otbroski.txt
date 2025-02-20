@@ -1,0 +1,45 @@
+https://docs.manim.community/en/stable/reference/manim.constants.html
+https://docs.manim.community/en/stable/reference/manim.constants.CapStyleType.html
+https://docs.manim.community/en/stable/reference/manim.constants.RendererType.html
+https://docs.manim.community/en/stable/reference/manim.constants.QualityDict.html
+https://docs.manim.community/en/stable/reference/manim.constants.LineJointType.html
+https://docs.manim.community/en/stable/reference/manim.scene.three_d_scene.SpecialThreeDScene.html
+https://docs.manim.community/en/stable/reference/manim.scene.three_d_scene.ThreeDScene.html
+https://docs.manim.community/en/stable/reference/manim.scene.zoomed_scene.html
+https://docs.manim.community/en/stable/reference/manim.typing.html
+https://docs.manim.community/en/stable/reference/manim.utils.bezier.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.AS2700.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.BS381.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.core.HSV.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.core.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.core.ManimColor.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.DVIPSNAMES.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.core.RGBA.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.SVGNAMES.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.X11.html
+https://docs.manim.community/en/stable/reference/manim.utils.color.XKCD.html
+https://docs.manim.community/en/stable/reference/manim.utils.paths.html
+https://docs.manim.community/en/stable/reference/manim.utils.rate_functions.html
+https://docs.manim.community/en/stable/reference/manim.utils.rate_functions.RateFunction.html
+https://docs.manim.community/en/stable/reference/manim.utils.tex_file_writing.html
+https://docs.manim.community/en/stable/reference/manim.utils.tex_templates.html
+https://docs.manim.community/en/stable/reference/manim.utils.tex_templates.TexFontTemplates.html
+https://docs.manim.community/en/stable/reference/manim.utils.tex_templates.TexTemplateLibrary.html
+https://docs.manim.community/en/stable/reference/manim.utils.tex.TexTemplate.html
+
+
+
+Removed: en_stable_reference_manim.scene.zoomed_scene.ZoomedScene.html.md
+Removed: en_stable_reference_manim.scene.three_d_scene.html.md
+Removed: en_stable_reference_manim.utils.color.manim_colors.html.md
+Removed: en_stable_reference_manim.utils.tex.html.md
+Removed: en_stable_reference_manim.scene.scene.Scene.html.md
+Removed: en_stable_reference_manim.scene.scene_file_writer.html.md
+Removed: en_stable_reference_manim.scene.scene_file_writer.SceneFileWriter.html.md
+Removed: en_stable_reference_index_utilities_misc.html.md
+Removed: en_stable_reference_manim.utils.tex.TexTemplate.html.md
+Removed: en_stable_reference_manim.scene.scene.RerunSceneHandler.html.md
+Removed: en_stable_reference_manim.scene.vector_space_scene.LinearTransformationScene.html.md
+Removed: en_stable_reference_manim.scene.vector_space_scene.html.md
+Removed: en_stable_reference_manim.scene.vector_space_scene.VectorScene.html.md
